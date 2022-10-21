@@ -1,0 +1,26 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+.navbar{
+    background-color: rgb(44, 252, 252);
+}
+
+.backgroundimg{
+    background-image: url('assets/img/bg1.jpg');
+    position:fixed;
+}
+
+.tabeldata{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.list-group{
+    margin-top: 30px;
+}
+.list-group-item{
+    text-align: center;
+    padding-left: 20px;
+}
